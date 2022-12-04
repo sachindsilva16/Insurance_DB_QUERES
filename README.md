@@ -1,8 +1,8 @@
  ### ``` Insurance_DB_QUERES```
 
 
-create database main_insurance_database;
-use main_insurance_database;
+> ```create database main_insurance_database;```
+> ```use main_insurance_database;```
 
 ``` --Person ```
 > create table person(
